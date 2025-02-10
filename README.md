@@ -6,5 +6,6 @@ An attempt has been made to utilize the following diagram for each section.
 </div>
 
 This repository includes the followings:
+
 ## Supervised Learning
 ### Regression
