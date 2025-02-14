@@ -9,6 +9,6 @@ This repository includes the followings:
 
 ## Supervised Learning
 ### Regression
-#### Linear Regression
-#### Ridge & Lasso Regression
+#### Ridge Polynomial Regression
+#### 
 ### Classification
