@@ -9,6 +9,7 @@ This repository includes the followings:
 
 ## Supervised Learning
 ### Regression
-#### Ridge Polynomial Regression
+#### Ridge Polynomial Regression Usinf Scikit-Learn
+#### Neural Network Using Tensorflow
 #### 
 ### Classification
