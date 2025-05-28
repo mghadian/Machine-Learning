@@ -11,5 +11,11 @@ This repository includes the followings:
 ### Regression
 #### Ridge Polynomial Regression Using Scikit-Learn
 #### Neural Network Using Tensorflow
-#### 
+
 ### Classification
+#### Logistic Regression
+#### Decision Trees
+#### Ensemble Learning
+#### K-Nearest Neighbor
+#### Neural Network
+#### SVM
