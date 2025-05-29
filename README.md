@@ -15,7 +15,7 @@ This repository includes the followings:
 ### Classification
 #### - Logistic Regression
 ##### - From scratch
-##### - Using schikit-Learn
+##### - Using scikit-Learn
 #### - Decision Trees
 #### - Ensemble Learning
 #### - K-Nearest Neighbor
