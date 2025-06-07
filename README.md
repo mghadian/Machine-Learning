@@ -8,9 +8,9 @@ An attempt has been made to utilize the following diagram for each section.
 This repository includes the followings:
 
 ## Supervised Learning
-### Regression
-#### - Ridge Polynomial Regression Using Scikit-Learn
-#### - Neural Network Using Tensorflow
+  ### Regression
+    #### - Ridge Polynomial Regression Using Scikit-Learn
+    #### - Neural Network Using Tensorflow
 
 ### Classification
   #### - Logistic Regression
