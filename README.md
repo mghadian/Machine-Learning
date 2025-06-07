@@ -13,11 +13,22 @@ This repository includes the followings:
 #### - Neural Network Using Tensorflow
 
 ### Classification
-#### - Logistic Regression
-##### - From scratch
-##### - Using scikit-Learn
-#### - Decision Trees
-#### - Ensemble Learning
+  #### - Logistic Regression
+    ##### - From scratch
+    ##### - Using scikit-Learn
+  #### - Decision Trees
+    ##### - From scratch
+    ##### - Using scikit-Learn
+  #### - Ensemble Learning
+    ##### - From scratch 
+        ##### - Forest Classifier
+        ##### - AdaBoost Classifier
+    ##### - Using scikit-learn code
+        ##### - Random Forest Classifier
+        ##### - AdaBoost Classifier
+        ##### - Bagging Classifier
+        ##### - Voting Classifier
+        ##### - XGBoost
 #### - K-Nearest Neighbor
 #### - Neural Network
 #### - SVM
