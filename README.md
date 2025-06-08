@@ -48,7 +48,7 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 ## 📌 How to Use
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/Machine-Learning.git
+   git clone https://github.com/mghadian/Machine-Learning.git
 #### - K-Nearest Neighbor
 #### - Neural Network
 #### - SVM
