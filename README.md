@@ -1,34 +1,54 @@
-# Machine-Learning
-The materials and algorithms for ML are stored here.
-An attempt has been made to utilize the following diagram for each section.
+# 🚀 Machine Learning Repository
+
+Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collection of materials, algorithms, and implementations covering various ML concepts—from foundational to advanced techniques.  
+
+📊 **Visual Overview**  
 <div align="center">
-<img src="https://github.com/user-attachments/assets/38a31ddc-d52a-4223-a9e1-a1ea845fde6a" width="400" height="400" align="center">
+  <img src="https://github.com/user-attachments/assets/38a31ddc-d52a-4223-a9e1-a1ea845fde6a" width="400" height="400" alt="ML Workflow Diagram">
 </div>
 
-This repository includes the followings:
+---
 
-## Supervised Learning
-  ### Regression
-    Ridge Polynomial Regression Using Scikit-Learn
-    Neural Network Using Tensorflow
+## 📚 Contents
 
-### Classification
-  #### Logistic Regression
-    From scratch
-    Using scikit-Learn
-  #### Decision Trees
-    From scratch
-    Using scikit-Learn
-  #### Ensemble Learning
-    From scratch 
-        Forest Classifier
-        AdaBoost Classifier
-    Using scikit-learn code
-        Random Forest Classifier
-        AdaBoost Classifier
-        Bagging Classifier
-        Voting Classifier
-        XGBoost
+### 🔍 Supervised Learning
+
+#### 📈 **Regression**
+- **Ridge Polynomial Regression** (`scikit-learn`)  
+- **Neural Network Regression** (`TensorFlow`)  
+
+#### 🏷 **Classification**
+- **Logistic Regression**  
+  - 🛠️ From scratch  
+  - ⚙️ Using `scikit-learn`  
+- **Decision Trees**  
+  - 🌳 From scratch  
+  - ⚙️ Using `scikit-learn`  
+- **Ensemble Learning**  
+  - 🌲 **From Scratch**  
+    - Forest Classifier  
+    - AdaBoost Classifier  
+  - ⚙️ **Using `scikit-learn`**  
+    - Random Forest  
+    - AdaBoost  
+    - Bagging  
+    - Voting Classifier  
+    - XGBoost  
+
+---
+
+## 🛠️ Tools & Libraries
+- Python 🐍  
+- NumPy, Pandas 📊  
+- Scikit-Learn 🤖  
+- TensorFlow/Keras 🧠  
+
+---
+
+## 📌 How to Use
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/your-username/Machine-Learning.git
 #### - K-Nearest Neighbor
 #### - Neural Network
 #### - SVM
