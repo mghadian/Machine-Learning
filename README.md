@@ -19,13 +19,13 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 
 #### 🏷 **Classification**
 - **Logistic Regression**  
-  - 🛠️ From scratch  
+  - 🌳 From scratch  
   - ⚙️ Using `scikit-learn`  
 - **Decision Trees**  
   - 🌳 From scratch  
   - ⚙️ Using `scikit-learn`  
 - **Ensemble Learning**  
-  - 🌲 **From Scratch**  
+  - 🌳 **From Scratch**  
     - Forest Classifier  
     - AdaBoost Classifier  
   - ⚙️ **Using `scikit-learn`**  
@@ -33,7 +33,12 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
     - AdaBoost  
     - Bagging  
     - Voting Classifier  
-    - XGBoost  
+    - XGBoost
+- **K-Nearest Neighbor**
+  - 🌳 From scratch  
+  - ⚙️ Using `scikit-learn` 
+- **Neural Network**
+- **SVM**
 
 ---
 
@@ -49,6 +54,4 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 1. Clone the repo:  
    ```bash
    git clone https://github.com/mghadian/Machine-Learning.git
-#### - K-Nearest Neighbor
-#### - Neural Network
-#### - SVM
+
