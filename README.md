@@ -50,7 +50,7 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 - NumPy, Pandas 📊  
 - Scikit-Learn 🤖  
 - TensorFlow/Keras 🧠
-- - PyTorch 🔥  
+- PyTorch 🔥  
 
 ---
 
