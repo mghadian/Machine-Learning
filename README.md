@@ -38,7 +38,7 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
   - 🌳 From scratch  
   - ⚙️ Using `scikit-learn` 
 - **Neural Network**
-  - 🛠️ From Scratch (NumPy)  
+  - 🌳 From Scratch
   - ⚡ Using `TensorFlow`  
   - 🔥 Using `PyTorch`  
 - **SVM**
