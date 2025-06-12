@@ -46,6 +46,8 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 
 ---
 
+### 🔍 Unsupervised Learning
+
 ## 🛠️ Tools & Libraries
 - Python 🐍  
 - NumPy, Pandas 📊  
