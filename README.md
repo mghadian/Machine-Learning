@@ -44,7 +44,6 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
 - **SVM**
   - ⚙️ Using `scikit-learn`
 
----
 
 ### 🔍 Unsupervised Learning
 
