@@ -42,6 +42,7 @@ Welcome to my **Machine Learning** repository! 🌟 Here, you'll find a collecti
   - ⚡ Using `TensorFlow`  
   - 🔥 Using `PyTorch`  
 - **SVM**
+ - ⚙️ Using `scikit-learn`
 
 ---
 
